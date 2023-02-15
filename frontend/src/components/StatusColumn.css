@@ -1,0 +1,12 @@
+.kanban-status-column {
+  min-width: 15em;
+  flex: 1 1 20em;
+}
+
+.icon-button {
+  height: 1.2em;
+  width: 1.2em;
+  user-select: none;
+  -webkit-user-select: none; /*Safari*/
+  -moz-user-select: none; /*Firefox*/
+}

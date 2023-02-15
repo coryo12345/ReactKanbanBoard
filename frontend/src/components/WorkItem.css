@@ -1,0 +1,10 @@
+.item-edit-icon {
+  display: none;
+}
+
+.work-item-card:hover .item-edit-icon {
+  display: inline-block;
+}
+.work-item-card:hover {
+  max-height: initial !important;
+}

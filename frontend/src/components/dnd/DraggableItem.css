@@ -1,0 +1,10 @@
+.app-draggable-item {
+  cursor: pointer;
+}
+
+.app-draggable-item-mouse-down {
+  position: relative;
+  transform: scale(1.1);
+  opacity: 0.9;
+  z-index: 9999;
+}
